@@ -1,14 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Engineer: anytao
-// Create Date: 2021/07/06 19:27:48
-// Module Name: sram_top.v
-// Project Name: sram_top.v
-// Target Devices: xc7k325tffg900-2
-// Tool Versions: vivado 2017.4
-// Description: input write ram calculate
-// Revision: 0.0
-//////////////////////////////////////////////////////////////////////////////////
 
 module sram_top
 #
